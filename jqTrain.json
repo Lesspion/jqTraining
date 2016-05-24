@@ -1,0 +1,22 @@
+{
+	"heroes": [
+		"Batman",
+		"Superman",
+		"Flash",
+		"Arrow",
+		"Catwoman",
+		"Green Lantern",
+		"Aquaman",
+		"Tornade"
+	],
+	"description": {
+		"Batman": "Dark hero",
+		"Superman": "A fucking superhero",
+		"Flash": "Trop rapide pour savoir ...",
+		"Arrow": "Tire plus vite que lucky luke",
+		"Catwoman": "Look Nelly",
+		"Green Lantern": "Il est vert !",
+		"Aquaman": "Who like it ?",
+		"Tornade": "She's beautiful"
+	}
+}
